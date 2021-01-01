@@ -1,4 +1,4 @@
-#### outlook_attachement_downloader
+#### Outlook_attachement_downloader
 Script to download attachements from messages in a specified folder (outlook)
 
 Designed to go through all the files in a specified INBOX subfolder and fetch all the  attachements from the messages.
